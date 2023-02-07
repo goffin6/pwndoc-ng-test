@@ -20,7 +20,7 @@
     "jwt-decode": "^2.2.0",
     "lodash": "^4.17.15",
     "quasar": "^1.15.4",
-    "socket.io-client": "^4.4.1",
+    "socket.io-client": "^4.5.4",
     "@tiptap/core": "^2.0.0-beta.182",
     "@tiptap/vue-2": "^2.0.0-beta.84",
     "@tiptap/starter-kit": "^2.0.0-beta.191",
